@@ -1,0 +1,7 @@
+C:\Users\Jonathan\source\repos\Examen_Fovissste\Examen_Fovissste\bin\Debug\Examen_Fovissste.exe.config
+C:\Users\Jonathan\source\repos\Examen_Fovissste\Examen_Fovissste\bin\Debug\Examen_Fovissste.exe
+C:\Users\Jonathan\source\repos\Examen_Fovissste\Examen_Fovissste\bin\Debug\Examen_Fovissste.pdb
+C:\Users\Jonathan\source\repos\Examen_Fovissste\Examen_Fovissste\obj\Debug\Examen_Fovissste.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\Examen_Fovissste\Examen_Fovissste\obj\Debug\Examen_Fovissste.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Examen_Fovissste\Examen_Fovissste\obj\Debug\Examen_Fovissste.exe
+C:\Users\Jonathan\source\repos\Examen_Fovissste\Examen_Fovissste\obj\Debug\Examen_Fovissste.pdb
